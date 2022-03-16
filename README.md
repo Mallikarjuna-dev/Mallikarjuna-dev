@@ -1,8 +1,5 @@
-# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-
-<h1 align="center">Hi 👋, I'm Mallikarjuna Annigeri</h1>
+<h1 align="center">Hi , I'm Mallikarjuna Annigeri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development in Masai School**
