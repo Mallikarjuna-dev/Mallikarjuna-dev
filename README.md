@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mallikarjuna Annigeri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h1></h1>
+<h1 align="center">Hi, I'm Mallikarjuna Annigeri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h1></h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development in Masai School**
@@ -22,7 +22,7 @@
 
 
 
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?mallikarjuna-dev=#your-username&theme=dracula&hide_border=true)
+# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mallikarjuna-dev&theme=dracula&hide_border=true)
 
 
 
