@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development in Masai School**
 
-- 📝 I love to create different types of [Contents](Contents)
-
 - 📫 How to reach me **mallikarjunaannigeri27@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_-YLstqX1uKlu3CysC3zlsSG3adC1AML/view?usp=sharing](https://drive.google.com/file/d/1_-YLstqX1uKlu3CysC3zlsSG3adC1AML/view?usp=sharing)
@@ -22,7 +20,7 @@
 
 
 
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mallikarjuna-dev&theme=dracula&hide_border=true)
+# Mallikarjuna-dev ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mallikarjuna-dev&theme=dracula&hide_border=true)
 
 
 
