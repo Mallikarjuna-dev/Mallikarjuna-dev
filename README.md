@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mallikarjuna Annigeri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<p>I have Bachelors degree in Electronics and Communication Engineering. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</p>
+<h2>I have Bachelors degree in Electronics and Communication Engineering. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h2>
+
+<br/>
 
 - 🌱 I’m currently learning **Full Stack Web Development in Masai School**
 
