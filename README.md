@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mallikarjuna Annigeri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshjavalagi&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshjavalagi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mallikarjuna-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Mallikarjuna-dev" /> </p>
 
 <h4>I have Bachelors degree in Electronics and Communication Engineering. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
 
