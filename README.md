@@ -54,7 +54,7 @@
 
 ## Stats📈 
 <br/> 
-<p align="left"> <img width="60%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Mallikarjuna-dev" />
+<p align="left"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Mallikarjuna-dev" />
 
 ![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight)
 
