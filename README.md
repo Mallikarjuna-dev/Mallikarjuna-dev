@@ -56,9 +56,9 @@
 <br/> 
 <p align="left"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Mallikarjuna-dev" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight)
+![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Mallikarjuna-dev" />
+
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=highcontrast&hide_border=true" alt="Mallikarjuna-dev" /> </p>
 
