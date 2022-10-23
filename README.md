@@ -58,8 +58,6 @@
 
 ![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight)
 
-
-
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=highcontrast&hide_border=true" alt="Mallikarjuna-dev" /> </p>
 
 
