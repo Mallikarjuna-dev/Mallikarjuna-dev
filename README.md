@@ -76,9 +76,10 @@
 <p align="left"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Mallikarjuna-dev" />
 
 ![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight)
+  
   <p align="left">
-    <a href="https://github.com/ashwanisahu97/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwani Sahu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanisahu97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Mallikarjuna-dev/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwani Sahu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
