@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href = "https://linkedin.com/in/mallikarjuna-annigeri" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ajju2748" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/mallikarjuna-annigeri-697a461b0/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Ajjua2748" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "mailto:mallikarjunaannigeri27@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <!-- <a href = "https://medium.com/@ashsahu627" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a> -->
 
