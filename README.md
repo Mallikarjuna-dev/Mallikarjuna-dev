@@ -19,11 +19,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href = "https://linkedin.com/in/mallikarjuna-annigeri" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ajju2748" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://medium.com/@ashsahu627" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a> -->
+<a href = "mailto:mallikarjunaannigeri27@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+    
+</p>
+
+<!-- <p align="left">
 <a href="https://twitter.com/ajju2748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajju2748" height="35" width="45" /></a>
 <a href="https://linkedin.com/in/mallikarjuna-annigeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallikarjuna-annigeri" height="35" width="45" /></a>
 <a href="https://instagram.com/_prince______aj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prince______aj27" height="35" width="45" /></a>
 </p>
-
+ -->
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
