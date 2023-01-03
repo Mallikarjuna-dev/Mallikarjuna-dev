@@ -92,11 +92,11 @@
     
 
   
-<!--   <p align="left">
+  <p align="left">
     <a href="https://github.com/Mallikarjuna-dev/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwani Sahu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
     </a>
-</p> -->
+</p>
 
 <!-- <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=highcontrast&hide_border=true" alt="Mallikarjuna-dev" /> </p> -->
 
