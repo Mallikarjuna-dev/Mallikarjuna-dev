@@ -105,7 +105,7 @@
 <!-- <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=highcontrast&hide_border=true" alt="Mallikarjuna-dev" /> </p> -->
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mallikarjuna-dev&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mallikarjuna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mallikarjuna-dev&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
