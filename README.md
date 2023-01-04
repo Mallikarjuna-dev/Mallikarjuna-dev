@@ -38,7 +38,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<br/>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
 
@@ -104,6 +103,8 @@
 </p>
 
 <!-- <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjuna-dev&theme=highcontrast&hide_border=true" alt="Mallikarjuna-dev" /> </p> -->
+
+<br/>
 
 
 [![Mallikarjuna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mallikarjuna-dev&bg_color=000000&color=3d91ff&line=fb3efe&point=744fba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
