@@ -93,7 +93,7 @@
 
 <!-- ![Mallikarjuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=tokyonight) -->
 
-![Mallikarjuna's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0&include_all_commits=true&count_private=true)
+![Mallikarjuna's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Mallikarjuna-dev&show_icons=true&theme=dark&hide_border=false&stroke=0000&background=060A0CD0&include_all_commits=true&count_private=true)
     
 
   <p align="left">
