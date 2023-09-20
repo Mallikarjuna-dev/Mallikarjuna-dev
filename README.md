@@ -51,6 +51,9 @@
 
 <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left">
 
+<img src = "https://img.shields.io/badge/next.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left">
+
+
 <br/>
 <br/>
 <br/>
