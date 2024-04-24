@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mallikarjuna-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Mallikarjuna-dev" /> </p>
 
-<h4 align="center" font-size="large" text="semibold">I have Bachelors degree in Electronics and Communication Engineering. Dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
+<h4 align="center" font-size="large" text="semibold">I have Bachelors degree in Electronics and Communication Engineering. Dedicated and determined a full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.</h4>
 
 <hr/>
 
