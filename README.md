@@ -92,7 +92,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjuna-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mallikarjuna-dev&layout=compact&langs_count=8&theme=algolia&background=060A0CD0"/>
+<img height="220em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mallikarjuna-dev&layout=compact&langs_count=8&theme=algolia&background=060A0CD0"/>
 
 <!-- <p align="left"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mallikarjuna-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Mallikarjuna-dev" /></p> -->
 
