@@ -7,8 +7,6 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Full Stack Web Development in Masai School**
-
 - 💬 Ask me about **ReactJS, HTML, CSS, JavaScript & NodeJS**
 
 - 📫 How to reach me **mallikarjunaannigeri27@gmail.com**
